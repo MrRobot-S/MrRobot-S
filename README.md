@@ -76,16 +76,6 @@ Building intelligent software, AI-powered applications, and practical solutions 
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Link |
-|---|---|---|
-| **VEKOLER Analyzer** | AI-powered multimedia analysis platform involving speech recognition, transcription, image and video analysis, and classification. | Private / In Development |
-| **Kurmanji TTS** | Text-to-speech project focused on the Kurmanji Kurdish language. | [GitHub](https://github.com/kban19/kurmanji-tts-android) |
-| **PÊWEND** | Software project currently included in my development work. | Private / In Development |
-
----
-
 ## 🌐 Languages
 
 - 🇸🇾 **Arabic** — Native / Fluent
