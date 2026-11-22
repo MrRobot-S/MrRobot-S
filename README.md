@@ -20,7 +20,7 @@ Building intelligent software, AI-powered applications, and practical solutions 
 - ⚙️ Developing AI-powered applications, automation tools, APIs, and **SaaS platforms**.
 - 🔍 Interested in local AI deployment, model optimization, and practical AI solutions.
 - 🌱 Continuously learning and exploring emerging technologies in AI and software development.
-- 🌍 Languages: **Arabic**, **Kurdish (Kurmanji – Latin alphabet)**, and English.
+- 🌍 Languages: **Arabic**, **Kurdish**, and English.
 
 ---
 
