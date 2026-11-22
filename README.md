@@ -74,7 +74,6 @@ Building intelligent software, AI-powered applications, and practical solutions 
 ![Automation](https://img.shields.io/badge/Automation-555555?style=flat-square)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square)
 
----
 
 ## 🌐 Languages
 
@@ -114,3 +113,43 @@ Building intelligent software, AI-powered applications, and practical solutions 
 **Building. Learning. Experimenting. Creating.**
 
 </div>
+
+
+## 🌍 About Me — Multilingual
+
+<details>
+<summary>🇬🇧 English</summary>
+
+I'm a software developer focused on Artificial Intelligence, Machine Learning, and modern software engineering. I build AI-powered applications and intelligent systems using technologies such as Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Natural Language Processing (NLP), and Computer Vision.
+
+I'm passionate about exploring new technologies, developing practical solutions, and building software that makes a real-world impact.
+
+</details>
+
+<details>
+<summary>🇸🇦 العربية</summary>
+
+أنا مطوّر برمجيات أركّز على الذكاء الاصطناعي وتعلّم الآلة وهندسة البرمجيات الحديثة.
+
+أعمل على تطوير تطبيقات مدعومة بالذكاء الاصطناعي وأنظمة ذكية باستخدام تقنيات مثل النماذج اللغوية الكبيرة (LLMs)، والتوليد المعزّز بالاسترجاع (RAG)، ووكلاء الذكاء الاصطناعي (AI Agents)، ومعالجة اللغات الطبيعية (NLP)، والرؤية الحاسوبية (Computer Vision).
+
+أهتم باستكشاف التقنيات الحديثة، وبناء حلول عملية، وتطوير برمجيات ذات فائدة وتأثير حقيقي.
+
+</details>
+
+<details>
+<summary>☀️ Kurdî — Kurmancî (Latînî)</summary>
+
+Ez pêşdebirê nermalavê me ku balê dide ser zîrekiya çêkirî, fêrbûna makîneyê û endezyariya nermalavê ya nûjen.
+
+Ez li ser pêşxistina sepan û pergalên jîr ên bi alîkariya zîrekiya çêkirî dixebitim. Di karên xwe de teknolojiyên wekî modelên zimanê mezin (LLMs), hilberîna bi alîkariya vegerandinê (RAG), ajanên zîrekiya çêkirî (AI Agents), pêvajokirina zimanê xwezayî (NLP) û dîtina kompîturê (Computer Vision) bikar tînim.
+
+Ez eleqedar im bi keşfkirina teknolojiyên nû, çêkirina çareseriyên pratîkî û pêşxistina nermalavên ku bandorek erênî li ser jiyana rastîn dikin.
+
+</details>
+
+### 🗣️ Languages
+
+- 🇸🇾 Arabic — Native / Fluent
+- ☀️ Kurdish (Kurmanji — Latin alphabet)
+- 🇬🇧 English — Learning and improving
