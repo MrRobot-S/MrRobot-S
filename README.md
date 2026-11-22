@@ -1,67 +1,126 @@
-<h1 align="center">Hi 👋, I'm MrRobot-S</h1>
+ <div align="center">
 
-<h3 align="center">Software Developer | AI & Machine Learning Enthusiast</h3>
+# Hi 👋, I'm MrRobot-S
 
-<p align="center">
-  Building software solutions and exploring practical applications of Artificial Intelligence.
-</p>
+### Software Developer | AI & Machine Learning Engineer
+
+Building intelligent software, AI-powered applications, and practical solutions with modern technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-profile-eight-gilt.vercel.app/)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Software developer with experience in Python and application development.
-- 🤖 Focused on Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
-- 🧠 Interested in NLP, Computer Vision, RAG systems, and AI agents.
-- 🔧 Experienced in developing backend systems and integrating AI models into applications.
-- 🚀 Interested in building practical, efficient, and locally deployable AI solutions.
-- 📚 Continuously learning and exploring emerging technologies in software engineering and AI.
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,fastapi,git,github,linux,docker,pytorch,tensorflow,vscode" />
-</p>
-
-**Areas of Interest:**  
-Artificial Intelligence · Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · RAG · AI Agents · Model Deployment
-
-## 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **VEKOLER Analyzer** | AI-powered multimedia analysis platform integrating speech recognition, computer vision, and intelligent classification. | Repository: Coming Soon |
-| **Kurmanji TTS** | Android text-to-speech project focused on offline Kurmanji speech synthesis. | [Repository](https://github.com/kban19/kurmanji-tts-android) |
-| **PÊWEND** | Software development project focused on building practical digital solutions. | Repository: Coming Soon |
-
-## 📚 Currently Working On
-
-- Developing AI-powered applications and intelligent software systems.
-- Exploring local LLM deployment, model optimization, and AI agents.
-- Improving expertise in machine learning and deep learning architectures.
-- Building scalable Python backends and integrating AI into real-world applications.
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+- 💻 Software developer focused on **Artificial Intelligence, Machine Learning, and modern software engineering**.
+- 🤖 Interested in building intelligent systems using **LLMs, RAG, AI Agents, and Generative AI**.
+- 🧠 Exploring AI fields including **NLP, Computer Vision, Deep Learning, and Speech Processing**.
+- ⚙️ Developing AI-powered applications, automation tools, APIs, and **SaaS platforms**.
+- 🔍 Interested in local AI deployment, model optimization, and practical AI solutions.
+- 🌱 Continuously learning and exploring emerging technologies in AI and software development.
+- 🌍 Languages: **Arabic**, **Kurdish (Kurmanji – Latin alphabet)**, and English.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 AI & Machine Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRobot-S&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot-S&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-007ACC?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0E8A16?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2C3E50?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-1F6FEB?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C6BC0?style=flat-square)
+![Speech AI](https://img.shields.io/badge/Speech_AI-00897B?style=flat-square)
+![Fine Tuning](https://img.shields.io/badge/Model_Fine--Tuning-795548?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
-<p align="center">
-  <i>Building, learning, and continuously improving.</i>
-</p>
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Data Storage**
+
+![Databases](https://img.shields.io/badge/Database_Systems-336791?style=flat-square&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-6A5ACD?style=flat-square)
+
+**AI Development & Infrastructure**
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/LLM_Ecosystem-412991?style=flat-square&logo=openai&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+**Software & Product Development**
+
+![SaaS](https://img.shields.io/badge/SaaS_Development-0A66C2?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-555555?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **VEKOLER Analyzer** | AI-powered multimedia analysis platform involving speech recognition, transcription, image and video analysis, and classification. | Private / In Development |
+| **Kurmanji TTS** | Text-to-speech project focused on the Kurmanji Kurdish language. | [GitHub](https://github.com/kban19/kurmanji-tts-android) |
+| **PÊWEND** | Software project currently included in my development work. | Private / In Development |
+
+---
+
+## 🌐 Languages
+
+- 🇸🇾 **Arabic** — Native / Fluent
+- **Kurdish (Kurmanji)** — Latin alphabet
+- 🇬🇧 **English** — Learning and improving
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-profile-eight-gilt.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-MrRobot--S-181717?style=for-the-badge&logo=github)](https://github.com/MrRobot-S)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrRobot-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot-S&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=MrRobot-S&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Building. Learning. Experimenting. Creating.**
+
+</div>
