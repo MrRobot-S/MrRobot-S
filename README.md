@@ -20,7 +20,7 @@ Building intelligent software, AI-powered applications, and practical solutions 
 - ⚙️ Developing AI-powered applications, automation tools, APIs, and **SaaS platforms**.
 - 🔍 Interested in local AI deployment, model optimization, and practical AI solutions.
 - 🌱 Continuously learning and exploring emerging technologies in AI and software development.
-- 🌍 Languages: **Arabic**, **Kurdish**, and English.
+- 🌍 Languages: **Kurdish**, **Arabic**, and English.
 
 ---
 
@@ -74,14 +74,6 @@ Building intelligent software, AI-powered applications, and practical solutions 
 ![Automation](https://img.shields.io/badge/Automation-555555?style=flat-square)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square)
 
-
-## 🌐 Languages
-
-- 🇸🇾 **Arabic** — Native / Fluent
-- **Kurdish (Kurmanji)** — Latin alphabet
-- 🇬🇧 **English** — Learning and improving
-
----
 
 ## 🤝 Connect With Me
 
