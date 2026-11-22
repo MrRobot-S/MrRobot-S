@@ -92,8 +92,6 @@ Building intelligent software, AI-powered applications, and practical solutions 
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrRobot-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot-S&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=MrRobot-S&theme=tokyonight&hide_border=true" />
 
 </div>
